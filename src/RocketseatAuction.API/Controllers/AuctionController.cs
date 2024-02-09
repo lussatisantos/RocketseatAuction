@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace RocketseatAuction.API.Controllers
 {
@@ -7,5 +6,16 @@ namespace RocketseatAuction.API.Controllers
     [ApiController]
     public class AuctionController : ControllerBase
     {
+        [HttpGet]
+        public IActionResult GetCurrentAuction()
+        {
+
+            // retornos:
+                // Ok() status code 200
+                // Created() criado com sucesso 201
+                // NotFound()
+                // Unauthorized() usuario nao esta autorizado
+            return NotFound("Lussati");
+        }
     }
 }
