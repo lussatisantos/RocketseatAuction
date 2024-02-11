@@ -30,3 +30,4 @@ C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.AP
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net6.0\RocketseatAuction.API.pdb
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net6.0\RocketseatAuction.API.genruntimeconfig.cache
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net6.0\ref\RocketseatAuction.API.dll
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net6.0\RocketseatAuction.API.sourcelink.json
