@@ -1,12 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RocketseatAuction.API.Entities;
+using RocketseatAuction.API.Enums;
 using RocketseatAuction.API.UseCases.Auctions.GetCurrent;
 
 namespace RocketseatAuction.API.Controllers
 {
-    [Route("[controller]")]
-    [ApiController]
-    public class AuctionController : ControllerBase
+    public class AuctionController : RocketseatAuctionBaseController
     {
         [HttpGet]
         [ProducesResponseType(typeof(Auction), StatusCodes.Status200OK)]
@@ -16,6 +15,12 @@ namespace RocketseatAuction.API.Controllers
             var useCase = new GetCurrentAuctionUseCase();
 
             var result = useCase.Execute();
+
+            /*
+            var item = result.Items.First();
+            if (item.Condition == Condition.NEW)
+                throw new Exception();
+            */
 
             if(result is null)
             {
@@ -28,6 +33,12 @@ namespace RocketseatAuction.API.Controllers
                 // NotFound()
                 // Unauthorized() usuario nao esta autorizado
             return Ok(result);
+        }
+
+        [HttpPost]
+        public IActionResult CreateOffer()
+        {
+            return Created();
         }
     }
 }
