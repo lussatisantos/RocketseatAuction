@@ -1,0 +1,8 @@
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.AssemblyInfo.cs
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8\RocketseatAuction.API.sourcelink.json

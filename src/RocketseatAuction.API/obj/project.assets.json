@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0.1": {
+    "net8.0": {
       "FsCheck/2.16.6": {
         "type": "package",
         "dependencies": {
@@ -5529,7 +5529,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0.1": [
+    "net8.0": [
       "FsCheck >= 2.16.6",
       "Microsoft.EntityFrameworkCore >= 8.0.1",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.1",
@@ -5553,15 +5553,16 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0.1"
+        "net8"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0.1": {
-          "targetAlias": "net8.0.1",
+        "net8.0": {
+          "targetAlias": "net8",
           "projectReferences": {}
         }
       },
@@ -5575,8 +5576,8 @@
       }
     },
     "frameworks": {
-      "net8.0.1": {
-        "targetAlias": "net8.0.1",
+      "net8.0": {
+        "targetAlias": "net8",
         "dependencies": {
           "FsCheck": {
             "target": "Package",
