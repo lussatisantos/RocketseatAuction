@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{922DC4ED-A023-4CFC-B0D2-49C4C4B756F8}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|c:\\users\\1\\onedrive\\documentos\\github\\rocketseatauction\\src\\rocketseatauction.api\\enums\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922DC4ED-A023-4CFC-B0D2-49C4C4B756F8}|src\\RocketseatAuction.API\\RocketseatAuction.API.csproj|solutionrelative:src\\rocketseatauction.api\\enums\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DB7448-B1D7-422E-A7B6-9DB2B90F6FC6}|tests\\UseCase.Test\\UseCase.Test.csproj|c:\\users\\1\\onedrive\\documentos\\github\\rocketseatauction\\tests\\usecase.test\\auctions\\getcurrent\\getcurrentauctionusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DB7448-B1D7-422E-A7B6-9DB2B90F6FC6}|tests\\UseCase.Test\\UseCase.Test.csproj|solutionrelative:tests\\usecase.test\\auctions\\getcurrent\\getcurrentauctionusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\Enums\\Condition.cs",
+              "RelativeDocumentMoniker": "src\\RocketseatAuction.API\\Enums\\Condition.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\Enums\\Condition.cs",
+              "RelativeToolTip": "src\\RocketseatAuction.API\\Enums\\Condition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:57:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCurrentAuctionUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\tests\\UseCase.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCase.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\tests\\UseCase.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCase.Test\\Auctions\\GetCurrent\\GetCurrentAuctionUseCaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:39:06.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

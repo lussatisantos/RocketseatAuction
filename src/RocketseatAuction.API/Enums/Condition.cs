@@ -1,6 +1,4 @@
-﻿using FsCheck.Experimental;
-
-namespace RocketseatAuction.API.Enums;
+﻿namespace RocketseatAuction.API.Enums;
 
 public class Condition
 {
