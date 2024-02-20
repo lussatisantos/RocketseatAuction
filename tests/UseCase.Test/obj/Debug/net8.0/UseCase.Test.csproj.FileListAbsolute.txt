@@ -98,3 +98,4 @@ C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\tests\UseCase.Test\obj\D
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\tests\UseCase.Test\obj\Debug\net8.0\UseCase.Test.pdb
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\tests\UseCase.Test\obj\Debug\net8.0\UseCase.Test.genruntimeconfig.cache
 C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\tests\UseCase.Test\obj\Debug\net8.0\ref\UseCase.Test.dll
+C:\Users\1\OneDrive\Documentos\GitHub\RocketseatAuction\tests\UseCase.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_UseCase.Test

@@ -4,6 +4,88 @@
     "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\tests\\UseCase.Test\\UseCase.Test.csproj": {}
   },
   "projects": {
+    "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\RocketseatAuction.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\RocketseatAuction.API.csproj",
+        "projectName": "RocketseatAuction.API",
+        "projectPath": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\RocketseatAuction.API.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8",
+          "dependencies": {
+            "FsCheck": {
+              "target": "Package",
+              "version": "[2.16.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\tests\\UseCase.Test\\UseCase.Test.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +110,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\RocketseatAuction.API.csproj": {
+                "projectPath": "C:\\Users\\1\\OneDrive\\Documentos\\GitHub\\RocketseatAuction\\src\\RocketseatAuction.API\\RocketseatAuction.API.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -46,9 +132,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.4.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
